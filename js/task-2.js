@@ -1,3 +1,5 @@
+'use strict';
+
 class Storage {
     #items;
     constructor(arrayOfGoods) {

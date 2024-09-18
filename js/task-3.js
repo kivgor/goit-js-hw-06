@@ -1,3 +1,5 @@
+'use strict';
+
 class StringBuilder {
     #value;
     constructor(initialValue) {
